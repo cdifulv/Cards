@@ -1,0 +1,17 @@
+{
+    "name": "difulv/cards",
+    "description": "Deck of cards",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Craig DiFulvio",
+            "email": "craig.difulvio@somersetcapital.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4":{
+            "Difulv\\Cards\\": "src/"
+        }
+    }
+}
